@@ -1,0 +1,2 @@
+addr,label,attempts,successes,consec successes,failures,consec failures,est latency,most recent bandwidth estimate,est bandwidth
+47.74.37.40:443,fp-sbtk1a-20171130-297-lampshade (47.74.37.40:443),4724,3528,109,1196,0,89.325307ms,2017-12-26T13:19:36.6555+08:00,544
